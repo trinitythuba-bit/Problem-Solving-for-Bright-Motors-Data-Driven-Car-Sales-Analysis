@@ -1,0 +1,2 @@
+# Problem-Solving-Using-SQL-for-Bright-Motors-Data-Driven-Car-Sales-Analysis
+BrightMotors-SQL-Analysis  A data-driven car sales analysis focusing on revenue, regional performance, and vehicle trends using SQL. This repository contains practical problem-solving work designed to support the new Head of Sales at Bright Motors, using historical sales data to uncover insights and guide strategic decisions.
